@@ -4,3 +4,5 @@ Novo teste
 TESTE
 
 Nova linha local novo usuario
+
+Outra linha
